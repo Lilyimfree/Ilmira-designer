@@ -14,12 +14,25 @@ body {
 	font-family: "Open Sans", Arial, sans serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 16px;
 	width: 100%;
       
 }
 
-#column-1 {
+#logo-img {
+  background: url('../images/Logo.png') no-repeat;
+  width: 418px;
+  height: 102px;
+  margin: 10px 15px 10px 0;
+  border-radius: 15px;
+}
+
+.top_contact {
+	list-style-type: none;
+	line-height: 40px;
+	letter-spacing: 0.2em;
+	text-align: right;
+}
+/*#column-1 {
 
 	width: 20%;
 	float: left;
@@ -42,7 +55,7 @@ body {
 	list-style-type: none;
 	line-height: 38px;
 	/*letter-spacing: 0.2em;*/
-	font-weight: bold;
+	/*font-weight: bold;
 	font-size: 1.5vw;
 	width: 100%;
 }
@@ -93,4 +106,4 @@ h1>img {
 
 .top_contact>li>a:hover {
 	color: #7397ad;	
-}
+}*/
