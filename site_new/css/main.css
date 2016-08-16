@@ -64,11 +64,9 @@ body {
 #logo_img {
   	background: url('../images/Logo_1.png') no-repeat;
 	width: 314px;
-	height: 153px;
+	height: 154px;
 	margin: 20px 15px 10px 15px;
 	border-radius: 15px;
-	/*position: absolute;
-	left: 20%;*/
 }
 
 #collapsable-nav {
